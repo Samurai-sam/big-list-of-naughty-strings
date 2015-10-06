@@ -26,3 +26,7 @@ The Big List of Naughty Strings is intended to be used *for software you own and
 ## Maintainer
 
 * Max Woolf ([@minimaxir](https://twitter.com/minimaxir))
+
+
+
+ytyty
